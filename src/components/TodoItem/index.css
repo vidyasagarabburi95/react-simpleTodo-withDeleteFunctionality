@@ -1,0 +1,26 @@
+/* Write your CSS here */
+li {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  margin: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+p {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  margin-right: auto;
+  margin: 10px;
+}
+button {
+  background-color: transparent;
+  color: #ff0b37;
+  border: 2px solid #ff0b37;
+  height: 36px;
+  width: 90px;
+  margin-left: auto;
+  border-radius: 8px;
+}
